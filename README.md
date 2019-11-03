@@ -12,7 +12,17 @@ I then feel it would work better if this becomes a collective thing. After all, 
 
 Feel free to PR to add more books or append your recommendations. Personally I find attaching a one-liner recommendation very helpful - it's an intro in your minds to people who've never read it before.
 
-**Note** in case you didn't know this trick in markdown: two spaces at the end of the line + new line will break line.
+### A simple style guide
+
+```markdown
+- **Title** by _author name_ and _another author name_  
+  [link to amazon](#) [link to goodreads](#)  
+  - why I recommend this book [name (optional)](#optional-link-to-tweet)  
+```
+
+- book has official website - put link on that book
+- separate links to amazon / goodreads on second line
+- this trick in markdown: two spaces at the end of the line + new line will break line.
 
 # "Point me to a book" starts here
 
