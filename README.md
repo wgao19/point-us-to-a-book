@@ -107,3 +107,13 @@ Feel free to PR to add more books or append your recommendations. Personally I f
 - **Gödel's Proof** by _Ernest Nagel, et al._  
   [amazon](https://www.amazon.com/G%C3%B6dels-Proof-Ernest-Nagel/dp/0814758371) | [goodreads](https://www.goodreads.com/book/show/695429.G_del_s_Proof)  
   Very interesting read in math on the topics of formal logic, even has an answer to the question of artificial v.s. human intelligence. TIL GED's author is an editor & collaborator for this book.
+
+- **Harry Potter and the Methods of Rationality** by Eliezer Yudkowsky  
+  [official site](http://www.hpmor.com/) | [goodreads](https://www.goodreads.com/book/show/10016013-harry-potter-and-the-methods-of-rationality)
+  
+  This book is not about the programming itself, but about science and methods of rationality. It may be extremely interesting for people with a technical mindset (doubly interesting if you are a fan of the Harry Potter Saga).
+
+- **Surely You're Joking, Mr. Feynman!** by Richard P. Feynman  
+  [amazon](https://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041) | [goodreads](https://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_)
+  
+  An interesting life story of one of the greatest physicist of the last century.
