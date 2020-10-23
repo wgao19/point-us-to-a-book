@@ -10,7 +10,7 @@ I then feel it would work better if this becomes a collective thing. After all, 
 
 # "Point me to a book" starts here
 
-## Technical
+## Technical & Knowledge
 
 - **Code: The Hidden Language of Computer Hardware and Software** by [_Charles Petzold_](http://www.charlespetzold.com/)  
   [amazon](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) | [goodreads](https://www.goodreads.com/book/show/13020367-code)
@@ -64,6 +64,10 @@ I then feel it would work better if this becomes a collective thing. After all, 
   
 - [**Category Theory for Programmers**](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) by _Barsotosz_  
   [goodreads](https://www.goodreads.com/book/show/33618151-category-theory-for-programmers)
+  
+- **A Type Primer**  
+  http://www.atypeprimer.com/  
+  A book on the historical context and technicalities of typography, very nice read.
 
 ## Industry
 
