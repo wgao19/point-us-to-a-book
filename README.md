@@ -1,4 +1,4 @@
-## Context
+# Context
 
 Dan [tweeted this](https://twitter.com/dan_abramov/status/1190762799338790913?s=20):
 
@@ -7,22 +7,6 @@ Dan [tweeted this](https://twitter.com/dan_abramov/status/1190762799338790913?s=
 Because I like reading a lot but I haven't read many technical books, I browsed through the discussion and [curated a list of books I'd like to read](https://aworkinprogress.dev/dan's-thread-on-interesting-books/), [and tweeted about this](https://twitter.com/wgao19/status/1190967709036531713?s=20). Then Dan retweeted it and that post rocketed.
 
 I then feel it would work better if this becomes a collective thing. After all, reading is a personal thing and my personal list may not make sense for others. But having a list that our community collectively recommend may be a good idea. You can then fork it to become your own, star or watch it, or PR to add more.
-
-## Contributing
-
-Feel free to PR to add more books or append your recommendations. Personally I find attaching a one-liner recommendation very helpful - it's an intro in your minds to people who've never read it before.
-
-### A simple style guide
-
-```markdown
-- **Title** by _author name_ and _another author name_  
-  [link to amazon](#) [link to goodreads](#)  
-  - why I recommend this book [name (optional)](#optional-link-to-tweet)  
-```
-
-- book has official website - put link on that book
-- separate links to amazon / goodreads on second line
-- this trick in markdown: two spaces at the end of the line + new line will break line.
 
 # "Point me to a book" starts here
 
@@ -61,17 +45,19 @@ Feel free to PR to add more books or append your recommendations. Personally I f
 - **Learn Type-Driven Development** by _Yawar Amin_ and _Kamon Ayeva_  
   [amazon](https://www.packtpub.com/application-development/learn-type-driven-development) | [goodreads](https://www.goodreads.com/book/show/43823727-learn-type-driven-development)  
   One of the authors once helped me on one of my problems around Flow. Later on I learned that the gradually typed system is more interesting than just semicolon number string object so I wanted to read more about this.
+
 - **Working Effectively with Legacy Code** by _Michael Feathers_  
   [amazon](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052) | [goodreads](https://www.goodreads.com/book/show/44919.Working_Effectively_with_Legacy_Code)  
   I like how this book has a practical perspective on how to gracefully work with legacy code.
+
 - [**Mostly Adequate Guide to Functional Programming**](https://github.com/MostlyAdequate/mostly-adequate-guide) by _Professor Frisby_   
   Very sensible intro to functional programming. The author also has [an egghead.io course that's even more sensible and fun](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript).
+
 - [**You Don't Know JS**](https://github.com/getify/You-Dont-Know-JS) by [_Kyle Simpson_](https://twitter.com/getify)
+
 - **Types and Programming Languages** by _Benjamin C. Pierce_  
   [amazon](https://www.amazon.com/dp/0262162091) | [goodreads](https://www.goodreads.com/book/show/112252.Types_and_Programming_Languages)  
   I'm not sure about the CS part but there should be more approcheable work on the set theory part.
-
-## Likely a lot of math
 
 - [**A Programmer's Introduction to Mathematics**](https://jeremykun.com/2018/12/01/a-programmers-introduction-to-mathematics/) by [_Jeremy Kun_](https://jeremykun.com/)  
   [amazon](https://www.amazon.com/Programmers-Introduction-Mathematics-Dr-Jeremy/dp/1727125452/) | [goodreads](https://www.goodreads.com/book/show/42970131-a-programmer-s-introduction-to-mathematics)
@@ -79,7 +65,17 @@ Feel free to PR to add more books or append your recommendations. Personally I f
 - [**Category Theory for Programmers**](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) by _Barsotosz_  
   [goodreads](https://www.goodreads.com/book/show/33618151-category-theory-for-programmers)
 
-## Non-technical:
+## Industry
+
+- **Jony Ive: The Genius Behind Apple's Greatest Products**  
+  [goodreads](https://www.goodreads.com/book/show/17707768-jony-ive)  
+  A very fluent read on Jony Ive, the designer behind many of Apple's critical products. Also an interesting anecdote about Jony's personal start and growth as a "prodigy" designer.
+  
+- **Where Wizards Stay Up Late** by _Katie Hafner_  
+  [amazon](https://www.amazon.com/Where-Wizards-Stay-Up-Late/dp/0684832674) | [goodreads](https://www.goodreads.com/book/show/281818.Where_Wizards_Stay_Up_Late)  
+  Talks about the birth of Internet.
+
+## Non-technical
 
 - **If Hemingway Wrote JavaScript** by _Angus Croll_  
   [amazon](https://www.amazon.com/Hemingway-Wrote-JavaScript-Angus-Croll/dp/1593275854/) | [goodreads](https://www.goodreads.com/book/show/21487480-if-hemingway-wrote-javascript)
@@ -88,22 +84,24 @@ Feel free to PR to add more books or append your recommendations. Personally I f
   [amazon](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) | [goodreads](https://www.goodreads.com/book/show/17255186-the-phoenix-project)  
   also multiple mentions  
   "_Its not about one programming language, but does cover concepts relevant to all programmers._" ([tweet](https://twitter.com/jonathaneckman4/status/1190796774329536517?s=20))
+
 - **Soul of a New Machine** by _Tracy Kidder_  
   [amazon](https://www.amazon.com/Soul-New-Machine-Tracy-Kidder/dp/0316491977) | [goodreads](https://www.goodreads.com/book/show/7090.The_Soul_of_a_New_Machine)  
   Love this book. I've read most books by this author. This one is his Pulitzer winning work. The stories happened relatively in the early boom of our industry but a lot of phenomena persist today.
+
 - **The Culture Code** by _Daniel Coyle_  
   [amazon](https://www.amazon.com/Culture-Code-Secrets-Highly-Successful/dp/B077B1WF85) | [goodreads](https://www.goodreads.com/book/show/33517721-the-culture-code)  
   Fast and interesting read on how effective groups collaborate.
+
 - **Godel, Escher, Bach** (a.k.a. "GED") by _Douglas Hofstadter_  
   [amazon](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) | [goodreads](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach)  
   Brilliant work on three geniuses. Bach in particular is my lifetime idol (in terms of creativity, not in terms of how many kids he have). And I find this conversation very amusing:
   ![](https://i.imgur.com/vYSQItD.png)
-- **Where Wizards Stay Up Late** by _Katie Hafner_  
-  [amazon](https://www.amazon.com/Where-Wizards-Stay-Up-Late/dp/0684832674) | [goodreads](https://www.goodreads.com/book/show/281818.Where_Wizards_Stay_Up_Late)  
-  Talks about the birth of Internet.
+
 - **The Victorian Internet** by _Tom Standage_  
   [amazon](https://www.amazon.com/Victorian-Internet-Remarkable-Nineteenth-line/dp/162040592X) | [goodreads](https://www.goodreads.com/book/show/52853.The_Victorian_Internet)  
   Interesting trip to the telegraph era and observe how similar it is from our Internet era.
+
 - **Gödel's Proof** by _Ernest Nagel, et al._  
   [amazon](https://www.amazon.com/G%C3%B6dels-Proof-Ernest-Nagel/dp/0814758371) | [goodreads](https://www.goodreads.com/book/show/695429.G_del_s_Proof)  
   Very interesting read in math on the topics of formal logic, even has an answer to the question of artificial v.s. human intelligence. TIL GED's author is an editor & collaborator for this book.
@@ -117,3 +115,19 @@ Feel free to PR to add more books or append your recommendations. Personally I f
   [amazon](https://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041) | [goodreads](https://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_)
   
   An interesting life story of one of the greatest physicist of the last century.
+
+# Contributing
+
+Feel free to PR to add more books or append your recommendations. Personally I find attaching a one-liner recommendation very helpful - it's an intro in your minds to people who've never read it before.
+
+## Style guide
+
+```markdown
+- **Title** by _author name_ and _another author name_  
+  [link to amazon](#) [link to goodreads](#)  
+  - why I recommend this book [name (optional)](#optional-link-to-tweet)  
+```
+
+- book has official website - put link on that book
+- separate links to amazon / goodreads on second line
+- this trick in markdown: two spaces at the end of the line + new line will break line.
