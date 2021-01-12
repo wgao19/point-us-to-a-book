@@ -120,6 +120,11 @@ I then feel it would work better if this becomes a collective thing. After all, 
   
   An interesting life story of one of the greatest physicist of the last century.
 
+- **Words Without Music** by Philip Glass  
+  [goodreads](https://www.goodreads.com/book/show/26530339-words-without-music)
+  
+  Contemporary musician and composer Philip Glass' memoir, his lifetime pursuit of the question _where does music come from_, anecdotes and guides to interpretation of his music.
+
 # Contributing
 
 Feel free to PR to add more books or append your recommendations. Personally I find attaching a one-liner recommendation very helpful - it's an intro in your minds to people who've never read it before.
